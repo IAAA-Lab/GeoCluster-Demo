@@ -1,0 +1,21 @@
+### JAVA
+*.jar
+
+### Gradle
+.gradle
+target
+build
+!gradle-wrapper.jar
+
+### Eclipse
+.metadata
+.gradle
+bin/
+.settings/
+.project
+.classpath
+
+### JetBrains template
+*.iml
+.idea
+~$*
